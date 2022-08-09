@@ -8,7 +8,7 @@ Hi,I'm Rashmi👋
 - 😄 Pronouns: she/Her
    
   ⚙️ <b>Languages and Tools:</b>
-  
+  <br>
   [![trophy](https://github-profile-trophy.vercel.app/?username=Rashmi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   <br>
   <br>
@@ -16,5 +16,5 @@ Hi,I'm Rashmi👋
   <br>
   <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmi5&layout=compact)](https://github.com/anuraghazra/github-readme-stats
-  <br>
+  
  
